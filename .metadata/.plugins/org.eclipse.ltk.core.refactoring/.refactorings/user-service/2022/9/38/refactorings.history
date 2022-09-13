@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;contacts&apos; in &apos;com.user.entities.User&apos; to &apos;contact&apos;&#x0D;&#x0A;- Original project: &apos;user-service&apos;&#x0D;&#x0A;- Original element: &apos;com.user.entities.User.contacts&apos;&#x0D;&#x0A;- Renamed element: &apos;com.user.entities.User.contact&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;contacts&apos;" flags="589830" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.user.entities{User.java[User^contacts" name="contact" references="true" setter="false" stamp="1663062244902" textual="false" version="1.0"/>
+</session>
